@@ -11,7 +11,7 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-    background: url('../Image/Cool-Wallpapers-HD.jpg');
+    background: url('../images/Cool-Wallpapers-HD.jpg');
     background-size: cover;
     background-position: center;
 }
